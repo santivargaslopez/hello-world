@@ -6,3 +6,4 @@ otra mas
 
 
 Final
+git status
